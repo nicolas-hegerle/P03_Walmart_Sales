@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Directories and files
+.DS_Store
+Walmart_Store_sales.csv
